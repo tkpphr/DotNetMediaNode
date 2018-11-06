@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetMediaNode", "DotNetMediaNode\DotNetMediaNode.csproj", "{42F9CA61-0892-48C7-B252-2E527FEE1EBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetMediaNode.Demo", "DotNetMediaNode.Demo\DotNetMediaNode.Demo.csproj", "{B24056E4-D022-4397-BA0E-AFC09E576A68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42F9CA61-0892-48C7-B252-2E527FEE1EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F9CA61-0892-48C7-B252-2E527FEE1EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F9CA61-0892-48C7-B252-2E527FEE1EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F9CA61-0892-48C7-B252-2E527FEE1EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B24056E4-D022-4397-BA0E-AFC09E576A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24056E4-D022-4397-BA0E-AFC09E576A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24056E4-D022-4397-BA0E-AFC09E576A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24056E4-D022-4397-BA0E-AFC09E576A68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {640BEF43-DE98-4AFF-9EF0-0FC282E148DE}
+	EndGlobalSection
+EndGlobal
